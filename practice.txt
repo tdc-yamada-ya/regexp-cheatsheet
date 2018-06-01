@@ -1,0 +1,6 @@
+2018-06-01 foo bar
+foo 2018-06-01 bar
+foo bar 2018-06-01
+２０１８-０６-０１ foo bar
+foo ２０１８-０６-０１ bar
+foo bar ２０１８-０６-０１
